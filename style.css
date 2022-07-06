@@ -38,5 +38,23 @@ h2 {
 
 .donate-part {
     text-align: center;
+    background-color: rgb(226, 236, 245);
 
+}
+
+.donate-part1 {
+    text-align: center;
+}
+
+.donate-section {
+    display: flex;
+
+
+}
+
+#special-donate {
+    text-align: center;
+    background-color: rgb(251, 246, 245);
+    color: tomato;
+    border: 1px solid tomato;
 }
