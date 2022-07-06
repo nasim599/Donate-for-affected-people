@@ -1,0 +1,44 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.font-size {
+    font-size: 20px;
+}
+
+.bannar-container {
+    color: rgb(243, 129, 98);
+    line-height: 50px;
+    background-image: url(images/donate-happy.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 50%;
+
+    text-align: center;
+}
+
+.buttons {
+    color: white;
+    background-color: rgb(243, 129, 98);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.donate-part{
+    text-align: center;
+
+
+}
