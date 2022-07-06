@@ -117,10 +117,9 @@ h2 {
     background-color: darkkhaki;
 }
 
-#label-email {
-    justify-content: center;
-    align-items: center;
-}
+
+/* justify-content: center;
+    align-items: center;*/
 
 #input-email {
     background-color: rgb(242, 238, 238);
@@ -129,6 +128,9 @@ h2 {
 }
 
 #update-part-style {
+    justify-content: center;
+    align-items: center;
+    display: flex;
     text-align: center;
     margin-top: 10px;
     background-color: bisque;
