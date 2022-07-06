@@ -1,7 +1,7 @@
 body {
+    margin: 0%;
     font-family: 'Kanit', sans-serif;
     font-family: 'Poppins', sans-serif;
-    margin: 0px;
 }
 
 h1 {
@@ -18,14 +18,13 @@ h2 {
 }
 
 .bannar-container {
-    color: rgb(243, 129, 98);
+    color: white;
     line-height: 50px;
-    background-image: url(images/donate-happy.jpg);
+    background-image: url(images/donation1.jpg);
     background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 50%;
-
+    background-size: cover;
+    height: 800px;
+    padding-top: 200px;
     text-align: center;
 }
 
@@ -37,8 +36,7 @@ h2 {
     border-radius: 10px;
 }
 
-.donate-part{
+.donate-part {
     text-align: center;
-
 
 }
