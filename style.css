@@ -39,15 +39,20 @@ h2 {
 .donate-part {
     text-align: center;
     background-color: rgb(226, 236, 245);
+    margin: 10px 10px;
+    padding: 0px 10px;
+    border-radius: 5px;
 
 }
 
 .donate-part1 {
     text-align: center;
+    margin-top: 10px;
 }
 
 .donate-section {
     display: flex;
+    padding: 0px 25%;
 
 
 }
@@ -55,6 +60,19 @@ h2 {
 #special-donate {
     text-align: center;
     background-color: rgb(251, 246, 245);
+    margin: 10px 10px;
+    padding: 0px 10px;
+    border-radius: 5px;
     color: tomato;
-    border: 1px solid tomato;
+    border: 5px solid tomato;
+}
+
+.input-customise {
+    font-size: 20px;
+    width: 500px;
+    height: 10px;
+    border: none;
+    padding: 10px 15%;
+    margin: 5px 25%;
+    border-bottom: 2px solid gray;
 }
