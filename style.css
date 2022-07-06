@@ -72,7 +72,7 @@ h2 {
     border: 5px solid tomato;
 }
 
-.input-customise {
+#input-amount {
     font-size: 20px;
     width: 500px;
     height: 10px;
@@ -87,7 +87,7 @@ h2 {
 
 }
 
-.donate-plan {
+.main-donate-plan {
 
     display: flex;
     margin: 30px 25%;
@@ -115,6 +115,36 @@ h2 {
 #shelter-plan {
 
     background-color: darkkhaki;
+}
+
+#label-email {
+    justify-content: center;
+    align-items: center;
+}
+
+#input-email {
+    background-color: rgb(242, 238, 238);
+    border: none;
+    padding: 10px 30px;
+}
+
+#update-part-style {
+    text-align: center;
+    margin-top: 10px;
+    background-color: bisque;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 100px 0px;
+}
+
+button {
+
+    border: none;
+    padding: 10px 10px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: coral;
 }
 
 footer {
